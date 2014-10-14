@@ -1,14 +1,31 @@
 monokai.terminal
 ----------------
 
-The Monokai color scheme for OS X Terminal and iTerm
+The Monokai color scheme for:
+MacOSX: Terminal, iTerm
+Linux KDE: Konsole, Kate
 
 
-## How do I install it?
+## Installation
 
-1. Clone the repository `git clone git://github.com/stephenway/monokai.terminal.git`
+### MacOSX
+
+1. Clone the repository `git clone git://github.com/stephenway/monokai.terminal.git`.
 2. Open the `Monokai.terminal` or `Monokai.itermcolors` file to install.
 3. Optionally open up Terminal or iTerm  preferences for more options.
+
+### Linux KDE
+
+#### Konsole
+
+1. Copy the Konsole colorscheme (*.colorscheme) files to ~/.kde/share/apps/konsole/.
+2. Open Konsole and select Settings => Configure Profiles => Edit Profile => Appearance.
+3. Select the Monokai scheme file and save.
+
+#### Kate
+
+1. Open Kate and select Configurations => Configure Kate => Fonts and Colours
+2. Import and Select the Monokai scheme file and save.
 
 ## License
 
