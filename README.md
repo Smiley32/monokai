@@ -53,5 +53,6 @@ This project is not licensed and is free for anyone to use.
 ## Credit
 
 Monokai Terminal and iTerm theme created by [Stephen Way](https://github.com/stephenway).
+
 The Monokai color scheme was created by Wimer Hazenberg, http://monokai.nl
 
