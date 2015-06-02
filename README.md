@@ -9,7 +9,7 @@ Emacs, VIM, Atom, VisualStudio
 
 ## Installation
 
-##### MacOSX Terminal and iTerm
+#### MacOSX Terminal and iTerm
 
 1. Clone the repository `git clone git://github.com/tommodore/monokai.git`.
 2. Open the `Monokai.terminal` or `Monokai.itermcolors` file to install.
