@@ -1,10 +1,6 @@
 Monokai Colorscheme
 ----------------
 
-The Monokai color scheme for:
-
-Terminal, iTerm, KDE Konsole, Kate, VIM, Emacs, Atom, VisualStudio
-
 ## Installation
 
 #### MacOSX Terminal and iTerm
