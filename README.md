@@ -30,11 +30,17 @@ Terminal, iTerm, KDE Konsole, Kate, VIM, Emacs, Atom, VisualStudio
 2. Add this to your .emacs: `(add-to-list 'custom-theme-load-path "~/.emacs.d/themes/")`
 3. Now you can load the theme with the interactive function `load-theme` like this: `M-x load-theme RET monokai`
 
-or simply use [Marmelade](http://marmalade-repo.org/) or [MELPA](http://melpa.milkbox.net/)
+Or simply use [Marmelade](http://marmalade-repo.org/) or [MELPA](http://melpa.milkbox.net/)
 
 #### VIM
 
-Simply use [vim-monokai](https://github.com/sickill/vim-monokai) module from [sickill](https://github.com/sickill).
+Put `monokai.vim` file in your `~/.vim/colors/` directory and add the following line to your `~/.vimrc`:
+
+    syntax enable
+    colorscheme monokai
+
+
+Or simply use [vim-monokai](https://github.com/sickill/vim-monokai) module from [sickill](https://github.com/sickill) with [Vundle](https://github.com/gmarik/Vundle.vim).
 
 #### Atom
 
