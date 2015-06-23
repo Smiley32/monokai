@@ -1,4 +1,4 @@
-monokai.terminal
+Monokai Colorscheme
 ----------------
 
 The Monokai color scheme for:
