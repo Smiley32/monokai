@@ -40,7 +40,11 @@ Or simply use [vim-monokai](https://github.com/sickill/vim-monokai) module from 
 
 #### Atom
 
-Simply use [monokai](https://github.com/kevinsawicki/monokai) module from [kevinsawicki](https://github.com/kevinsawicki).
+My preferred settings
+
+UI Theme: [Atom Material](https://atom.io/themes/atom-material-ui)
+
+Syntax Theme: [Material Monokai](https://atom.io/themes/material-monokai-syntax
 
 #### Visual Studio
 
