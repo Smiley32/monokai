@@ -11,7 +11,7 @@ Monokai Colorscheme
 
 #### KDE Konsole
 
-1. Copy the Konsole colorscheme (*.colorscheme) files to ~/.kde/share/apps/konsole/.
+1. Copy the Konsole colorscheme (*.colorscheme) files to (KDE 4) ~/.kde/share/apps/konsole/ or (KDE 5) ~/.local/share/konsole/.
 2. Open Konsole and select Settings => Configure Profiles => Edit Profile => Appearance.
 3. Select the Monokai scheme file and save.
 
